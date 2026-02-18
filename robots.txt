@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ogdenplumbingteam.com/sitemap.xml
